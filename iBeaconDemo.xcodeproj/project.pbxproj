@@ -198,6 +198,7 @@
 				TargetAttributes = {
 					A4887CBF1AEF3ED8002D3E93 = {
 						CreatedOnToolsVersion = 6.3;
+						DevelopmentTeam = 25J99P67DE;
 					};
 					A4887CD81AEF3ED8002D3E93 = {
 						CreatedOnToolsVersion = 6.3;
@@ -379,6 +380,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = iBeaconDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -390,6 +392,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = iBeaconDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -450,6 +453,7 @@
 				A4887CE51AEF3ED8002D3E93 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A4887CE61AEF3ED8002D3E93 /* Build configuration list for PBXNativeTarget "iBeaconDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -458,6 +462,7 @@
 				A4887CE81AEF3ED8002D3E93 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
